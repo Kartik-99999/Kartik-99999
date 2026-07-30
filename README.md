@@ -5,8 +5,19 @@ cyber-resilience platform for critical national infrastructure, a multi-tenant s
 serving schools on their own subdomains, and a defence-journalism site that researches,
 writes and publishes itself every morning.
 
-Mostly **Python** and **TypeScript** — FastAPI, Next.js, PostgreSQL, Neo4j — with a bias
-toward things that run in production and prove their own claims.
+Mostly **Python** and **TypeScript**, with a bias toward things that run in production and
+prove their own claims.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 📫 [kartikbhardwaj.0705@gmail.com](mailto:kartikbhardwaj.0705@gmail.com)
 
@@ -63,6 +74,9 @@ Linked lists, stacks and queues driven from the browser against a **C++ REST bac
 ## GitHub
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kartik-99999&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-99999&layout=compact&hide_border=true&langs_count=6&theme=transparent" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=Kartik-99999&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=8B949E&sideLabels=8B949E&dates=6E7681&currStreakNum=C9D1D9&stroke=30363D" alt="Contribution streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartik-99999&bg_color=00000000&color=8B949E&line=58A6FF&point=C9D1D9&area=true&hide_border=true" alt="Contribution activity" />
 </p>
